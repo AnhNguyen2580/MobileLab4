@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.TVmovie" parent="@style/Theme.Leanback" />
+</resources>

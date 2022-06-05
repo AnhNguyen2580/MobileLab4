@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TVmovie</string>
+    <string name="browse_title">Favorite movie show</string>
+    <string name="related_movies">Related Videos</string>
+    <string name="grid_view">Grid View</string>
+    <string name="error_fragment">Error Fragment</string>
+    <string name="personal_settings">Personal Settings</string>
+    <string name="watch_trailer_1">Watch trailer</string>
+    <string name="watch_trailer_2">FREE</string>
+    <string name="rent_1">Watch movie</string>
+    <string name="rent_2">Play</string>
+    <string name="buy_1">Movie</string>
+    <string name="buy_2">Season 1</string>
+    <string name="movie">Movie</string>
+
+    <!-- Error messages -->
+    <string name="error_fragment_message">An error occurred</string>
+    <string name="dismiss_error">Dismiss</string>
+</resources>
